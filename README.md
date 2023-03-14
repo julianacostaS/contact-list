@@ -37,6 +37,7 @@ This project was developed using the following technologies:
 - React.js
 - Vite
 - GIT & Github
+- Netlify
 
 
 ## 🚀 How to execute the application
