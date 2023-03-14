@@ -10,17 +10,20 @@ A fully responsive web application where users can browse and filter contacts fr
 [🔗 Click here to access it](https://contact-list-challenge.netlify.app/)
 
 <br>
+<br>
 
-![preview]()
+![contact-list-preview](https://user-images.githubusercontent.com/49543157/224918228-ee1995af-45ad-4dec-9ea2-c487f56ffb04.gif)
+
+<br>
 <br>
 
 <p align="center">
   <img alt="Preview of contact list application" src="https://user-images.githubusercontent.com/49543157/224916378-5df3aee9-4cce-4c24-84ac-9961146d121b.png" width="100%"> 
-
+<br>
 <br>
 
 <p align="center">
-  <img alt="Preview of contact list application" src="https://user-images.githubusercontent.com/49543157/224916620-496b807d-c674-4098-8d29-b2824af120d2.png" width="100%"> 
+  <img alt="Preview of contact list application" src="https://user-images.githubusercontent.com/49543157/224916620-496b807d-c674-4098-8d29-b2824af120d2.png" width="70%"> 
 </p>
 
 
