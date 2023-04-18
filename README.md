@@ -1,9 +1,9 @@
 # Contact-list
 
- <h2 align="center">A web application displaying a API contact list & applying search filter using React.js  </h2>
+ <h2 align="center">A web application displaying an API contact list & applying search filter using React.js  </h2>
 
 <p align="center">
-A fully responsive web application where users can browse and filter contacts from a contact list. Among other thecnologies, I used JSON placeholder API, React.js and CSS @media queries. <br/>
+A fully responsive web application where users can browse and filter contacts from a contact list. Among other technologies, I used JSON placeholder API, React.js and CSS @media queries. <br/>
 </p>
 
  
